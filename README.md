@@ -12,7 +12,7 @@ Under "Filter Search" you will see 5 options for filtering the data table. You m
 
 **Example Search**
 Parameters-> City = benton State = ar
-![examplesearch](https://github.com/nsmeltz/Module_11_Challenge/blob/03c44163342a79f75ce5cc66544fa55f8a51963a/images/examplesearch.png)
+![examplesearch](https://github.com/nsmeltz/Module_11_Challenge/blob/09a2b8ef5f74cbc053e381f141539fb77caf6842/images/examplesearch.png)
 
 # Summary: 
 One drawback of this design is that if you do not type the correct format in the filter boxes then the table returns nothing, which some users may interpret as there was no data for their search. I would add an error message propting the user to double check the format of the input or add a line in the code that will convert the input to the correct format to execute the search.
